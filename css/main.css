@@ -1,3 +1,6 @@
 body {
-    background-color: blueviolet;   
+    background-color: rgb(165, 179, 209);   
+}
+p {
+    color: brown;
 }
